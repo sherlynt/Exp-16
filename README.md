@@ -58,7 +58,8 @@ int main()
 }
 ```
 
-o/p:
+o/p: ![image](https://github.com/user-attachments/assets/c9c76e85-5ee5-457a-96af-624a0622c93e)
+
 
 
 
@@ -85,7 +86,8 @@ int main() {
 
 ```
 
-o/p:
+o/p: ![image](https://github.com/user-attachments/assets/5f43f003-5ec9-4d88-b179-5836438cd3f9)
+
 
 
 # Conclusion
